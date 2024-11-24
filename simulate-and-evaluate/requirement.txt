@@ -1,0 +1,11 @@
+pip install transformers==4.34.0
+pip install accelerate==0.24.0
+pip install bitsandbytes==0.41.1
+pip install openai==0.28.0
+pip install wandb==0.15.12
+pip install tenacity==8.2.3
+pip install tqdm==4.66.1
+pip install numpy==1.24.3
+pip install peft==0.5.0
+pip install sentencepiece==0.1.99
+pip install protobuf==3.20.3
